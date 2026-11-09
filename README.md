@@ -91,7 +91,7 @@ An intelligent traffic-management concept designed to identify congestion, suppo
 - Practising Data Structures and Algorithms using **Java**.
 - Strengthening foundations in **AI/ML and computer vision**.
 - Building and debugging **full-stack applications**.
-- Preparing for **GATE 2027** alongside engineering coursework.
+
 
 ---
 
