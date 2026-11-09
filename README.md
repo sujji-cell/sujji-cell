@@ -48,7 +48,6 @@ const suraj = {
   education: {
     degree: "B.E. Artificial Intelligence & Machine Learning",
     college: "CMR Institute of Technology",
-    cgpa: "9.05"
   },
 
   interests: [
